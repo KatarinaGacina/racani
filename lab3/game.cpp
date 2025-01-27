@@ -952,7 +952,7 @@ int main(int argc, char** argv) {
 
     std::cout << "Shader Program ID: " << shaderProgram << std::endl;
 
-    setup2();
+    setup1();
     setShaderData();
 
     glutDisplayFunc(myDisplay);
