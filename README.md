@@ -4,6 +4,6 @@ These laboratory assigements were completed as part of the *Computer Animation* 
 
 **First laboratory assigement**: B-spline curve - demonstration of the use of B-splines for animating the path of an object over time, as well as animating the rotation of the object along the curve.
 
-**Second laboratory assigement**: System of particles - snow simulation.
+**Second laboratory assigement**: Particle System - snow simulation.
 
 **Project** (lab3): Simple 2D game.
